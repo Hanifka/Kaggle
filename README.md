@@ -1,4 +1,4 @@
-# Kaggle
+# Kaggle Journey
 
 Hello 
 Welcome to my kaggle journey !!
