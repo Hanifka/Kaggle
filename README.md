@@ -1,11 +1,11 @@
-# Kaggle Journey
+<p align="left">
+<a href="https://kaggle.com/hanifkurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hanifkurniawan" height="30" width="40" /></a>
+</p>aggle Journey
 
 Hello 
 Welcome to my kaggle journey !!
 
-<p align="left">
-<a href="https://kaggle.com/hanifkurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hanifkurniawan" height="30" width="40" /></a>
-</p>
+
 
  Competition Kaggle list(will continue to grow) :
  
