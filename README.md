@@ -1,9 +1,10 @@
-<a href="https://kaggle.com/hanifkurniawan" target="blank"><img align="Left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hanifkurniawan" height="30" width="40" /></a>aggle Journey
-
-
+<p align="left">
+<a href="https://kaggle.com/hanifkurniawan" target="blank"><img align="Center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hanifkurniawan" height="30" width="40" /></a>
+</p>
 
 <hr>
-Hello 
+
+Hello :wave:
 
 Welcome to my kaggle journey !!
 
